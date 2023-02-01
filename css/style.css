@@ -1,0 +1,63 @@
+
+
+*{
+    padding: 0;
+    margin: 0;
+}
+
+body{
+    background-image: url("../src/fondo.jpg");
+}
+
+nav{
+    background-color: #7f6650;
+    border-radius: 10px;
+    margin: 10px;
+}
+
+ul {
+    list-style-type: none;
+    overflow: hidden;
+
+  }
+  
+  .logo {
+    float: left;
+    width: 15vw;
+    height: 15vw;
+    padding: 1vw; 
+    margin: 2vw 0vw 2vw 2vw;
+  }
+
+  .btnalergias{
+    float:right;
+    background: #dcceb3;
+    border: none;
+    border-radius: 5px;
+    padding: 3vw; 
+    margin: 5vw 5vw 0vw 0vw;
+   }
+
+  .btnalergias:hover {
+    background-color: #372f20;
+    color: white;
+  }
+
+
+
+
+  .ejemplo{
+    margin: 5vw;
+    border-radius: 10px;
+    background-color: aquamarine;
+  }
+
+  .ejemplo > h1{
+    padding: 1vw; 
+    font-family:
+  }
+
+  .ejemplo > p{
+    padding: 1vw; 
+    font-family:
+  }
