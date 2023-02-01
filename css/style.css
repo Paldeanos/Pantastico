@@ -1,4 +1,5 @@
-
+@import url('https://fonts.googleapis.com/css2?family=Istok+Web&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Kreon&display=swap');
 
 *{
     padding: 0;
@@ -36,6 +37,8 @@ ul {
     border-radius: 5px;
     padding: 3vw; 
     margin: 5vw 5vw 0vw 0vw;
+    font-size:medium;
+    font-family: 'Kreon', serif;
    }
 
   .btnalergias:hover {
@@ -47,17 +50,26 @@ ul {
 
 
   .ejemplo{
+    display: flex;
+    flex-direction: row;
     margin: 5vw;
     border-radius: 10px;
     background-color: aquamarine;
+
   }
 
-  .ejemplo > h1{
+  .der > h1{
     padding: 1vw; 
-    font-family:
+    font-family: 'Kreon', serif;
   }
 
-  .ejemplo > p{
+  .der > p{
     padding: 1vw; 
-    font-family:
+    font-family: 'Istok Web', sans-serif;
+  }
+
+  .izq{
+  }
+
+  .der{
   }
