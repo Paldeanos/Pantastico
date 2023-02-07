@@ -11,65 +11,70 @@ body{
 }
 
 nav{
-    background-color: #7f6650;
-    border-radius: 10px;
-    margin: 10px;
+  /* width: 100vw;
+  max-height: 100px; */
+  background-color: #7f6650;
+  border-radius: 10px;
+  margin: 10px;
 }
 
 ul {
     list-style-type: none;
     overflow: hidden;
-
   }
   
-  .logo {
-    float: left;
-    width: 15vw;
-    height: 15vw;
-    padding: 1vw; 
-    margin: 2vw 0vw 2vw 2vw;
+.logo {
+  float: left;
+  width: 15vw;
+  height: 15vw;
+  padding: 1vw; 
+  margin: 2vw 0vw 2vw 2vw;
+}
+
+.btnalergias{
+  float:right;
+  background: #dcceb3;
+  border: none;
+  border-radius: 5px;
+  padding: 3vw; 
+  margin: 5vw 5vw 0vw 0vw;
+  font-size:medium;
+  font-family: 'Kreon', serif;
   }
 
-  .btnalergias{
-    float:right;
-    background: #dcceb3;
-    border: none;
-    border-radius: 5px;
-    padding: 3vw; 
-    margin: 5vw 5vw 0vw 0vw;
-    font-size:medium;
-    font-family: 'Kreon', serif;
-   }
+.btnalergias:hover {
+  background-color: #372f20;
+  color: white;
+}
 
-  .btnalergias:hover {
-    background-color: #372f20;
-    color: white;
-  }
+main{
+  display: flex;
+  flex-direction: column;
+  margin: 5vw;
+  border-radius: 10px;
+}
 
+section {
+  display: flex;
+  flex-direction: row;
+  padding: 1rem;
+  margin: 1rem 0;
+  border: 1px solid #9d8b7b;
+  border-radius: 20px;
+  background-color: #ead0b7;
+}
 
+aside img {
+  max-width: 150px;
+  max-height: 150px;
+}
 
+.der > h1{
+  padding: 1vw; 
+  font-family: 'Kreon', serif;
+}
 
-  .ejemplo{
-    display: flex;
-    flex-direction: row;
-    margin: 5vw;
-    border-radius: 10px;
-    background-color: aquamarine;
-
-  }
-
-  .der > h1{
-    padding: 1vw; 
-    font-family: 'Kreon', serif;
-  }
-
-  .der > p{
-    padding: 1vw; 
-    font-family: 'Istok Web', sans-serif;
-  }
-
-  .izq{
-  }
-
-  .der{
-  }
+.der > p{
+  padding: 1vw; 
+  font-family: 'Istok Web', sans-serif;
+}
