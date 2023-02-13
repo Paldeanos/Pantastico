@@ -43,7 +43,7 @@ fetch("js/menu.json")
     
   })
   .catch( err => {
-      alert("hubo error")
+      alert("Hubo error. Recargue la página.")
   });
 }
 
