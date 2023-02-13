@@ -1,2 +1,2 @@
-Álvaro González Rando
+Álvaro González Rando /
 Alicia Ruiznavarro Ambrona
