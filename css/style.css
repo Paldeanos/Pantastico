@@ -121,12 +121,14 @@ article h4{
   display: inline;
 }
 
-i{
+.addFav{
   margin-left: 10px;
   color: black;
+  background-color: transparent;
+  border-color: transparent;
 }
 
-i:hover{
+.addFav:hover{
   cursor: pointer;
   color: red;
 }
