@@ -20,22 +20,22 @@
 
     <header>
         <nav>
-            <ul>
+            <ul id="filters">
                 <li><a href="index.html"><img src="src/logo.png" class="logo" alt="Logo del Restaurante Pantástico"></a></li>
                 <li>
                     <input class="filterOption" type="checkbox" value="favoritos" id="favoritos" />
                     <label for="favoritos">Favoritos</label>
                 <li>
-                    <input class="filterOption" type="checkbox" value="celiaco" id="celiaco" />
-                    <label for="celiaco">Celíaco</label>
+                    <input class="filterOption" type="checkbox" value="gluten" id="gluten" />
+                    <label for="gluten">Celíaco</label>
                 </li>
                 <li>
                     <input class="filterOption" type="checkbox" value="vegano" id="vegano" />
                     <label for="vegano">Vegano</label>
                 </li>
                 <li>
-                    <input class="filterOption" type="checkbox" value="lactosa" id="lactosa" />
-                    <label for="lactosa">Sin lactosa</label>
+                    <input class="filterOption" type="checkbox" value="lacteo" id="lacteo" />
+                    <label for="lacteo">Sin lactosa</label>
                 </li>
             </ul>
         </nav>
@@ -59,6 +59,7 @@
     </template>
     
     <script src="https://code.jquery.com/jquery-3.6.3.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
     <script src="js/mockapi.js"></script>
     <script src="js/app.js"></script>
 </body>

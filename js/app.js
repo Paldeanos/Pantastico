@@ -1,13 +1,25 @@
-    let header = document.querySelector("header").children;
+
+    // $("#filters :checkbox").click(function() {
+    //     if (!$('.filterOption').is(":checked")) {
+    //         $(".alergias").show();
+    //     } else {
+    //         $(".alergias").hide();
+    //         var selector = ".alergias." + $("#filters :checked").map(function () {
+    //             return this.value;
+    //         }).toArray().join(".");
+    //         $(selector).show();
+    //     }
+    // });
+
     
-    let btnFav = header[1];
-    let btnCeliaco = header[2];
-    let btnVegano = header[3];
-    let btnLactosa = header[4];
+$("#filters :checkbox").click(function() {
+    if ($(".filterOption").is(":checked")){
+        var selector = ".alergias." + $("#filters :checked").map(function () {
+            return this.value;
+        }).toArray().join(".");
+        $(selector).hide();
+    }else{
+        $(".alergias").show();
+    }
 
-    btnCeliaco.addEventListener("click", ocultarGluten);
-
-    function ocultarGluten(){
-        let gluten = document.querySelector(".gluten");
-        gluten.style.backgroundColor="red"
-    };
+});

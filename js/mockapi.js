@@ -9,6 +9,8 @@ fetch("https://63d158563f08e4a8ff95f787.mockapi.io/menu")
       
     data.forEach( function(el){
         let wrap = document.createElement("section");
+
+        wrap.classList.add("alergias");
     
         if (el.allergens.includes("Gluten")) {
           wrap.classList.add("gluten");
