@@ -13,3 +13,7 @@ $("#filters :checkbox").click(function() {
         $(".alergias" + selector).show();
     }
 });
+
+$(".fav").click(function() {
+    $("section").toggleClass("favorito");
+})
