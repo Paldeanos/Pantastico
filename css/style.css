@@ -85,6 +85,11 @@ section {
   background-color: #ead0b7;
 }
 
+aside {
+  margin-right: 25px;
+  width: 150px;
+}
+
 aside img {
   max-width: 150px;
   max-height: 150px;
