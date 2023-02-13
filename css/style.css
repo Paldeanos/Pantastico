@@ -2,8 +2,8 @@
 @import url('https://fonts.googleapis.com/css2?family=Kreon&display=swap');
 
 * {
-    padding: 0;
-    margin: 0;
+  padding: 0;
+  margin: 0;
 }
 
 html {
@@ -15,7 +15,8 @@ html {
 }
 
 body{
-    background-image: url("../src/fondo.jpg");
+  background-image: url("../src/fondo.jpg");
+  font-family: 'Istok Web', sans-serif;
 }
 
 nav{
@@ -27,6 +28,8 @@ nav{
   top: 0;
   left: 0;
   right: 0;
+  display: flex;
+  justify-content: space-between;
 }
 
 ul {
@@ -37,11 +40,7 @@ ul {
   align-items: center;
 }
 
-li:first-child {
-  display: flex;
-}
-
-li:not(:first-child){
+li {
   height: 50px;
   width: 150px;
   background-color: #dcceb3;
@@ -132,10 +131,6 @@ i:hover{
   color: red;
 }
 
-article p{
-  font-family: 'Istok Web', sans-serif;
-}
-
 @media only screen and (max-width: 735px) {
 
   ul {
@@ -143,7 +138,8 @@ article p{
     align-items: center;
   }
 
-  li:not(:first-child){
+  li {
     margin-bottom: 5px;
   }
+
 }
