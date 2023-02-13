@@ -40,7 +40,6 @@ fetch("js/menu.json")
         
         contenedor.appendChild(wrap);  
       });
-    
   })
   .catch( err => {
       alert("Hubo error. Recargue la página.")
