@@ -1,40 +1,13 @@
-let plantilla = document.querySelector("template")  
-let contenedor = document.querySelector("main")
+    let header = document.querySelector("header").children;
+    
+    let btnFav = header[1];
+    let btnCeliaco = header[2];
+    let btnVegano = header[3];
+    let btnLactosa = header[4];
 
-function update() {
-  contenedor.innerText="";
-fetch("https://63d158563f08e4a8ff95f787.mockapi.io/menu")
-  .then(response => response.json())
-  .then(data => {
-      
-    data.forEach( function(el){
-        let wrap = document.createElement("section");
-    
-        if (el.allergens.includes("Gluten")) {
-          wrap.classList.add("gluten");
-        }
-    
-        if (el.allergens.includes("Lacteo")) {
-          wrap.classList.add("lacteo");
-        }
-    
-        if (el.allergens.includes("Vegano")) {
-          wrap.classList.add("vegano");
-        }
-        
-        let nuevoplato = plantilla.content.cloneNode(true);
-        nuevoplato.querySelector("img").src = el.picture;
-        nuevoplato.querySelector("h4").innerText = el.name;
-        nuevoplato.querySelector("p").innerText = el.ingredients;
-        wrap.appendChild(nuevoplato);        
-        
-        contenedor.appendChild(wrap);  
-      });
-    
-  })
-  .catch( err => {
-      alert("hubo error")
-  });
-}
+    btnCeliaco.addEventListener("click", ocultarGluten);
 
-update();
+    function ocultarGluten(){
+        let gluten = document.querySelector(".gluten");
+        gluten.style.backgroundColor="red"
+    };
