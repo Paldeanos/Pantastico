@@ -4,7 +4,14 @@
 * {
     padding: 0;
     margin: 0;
-    box-sizing: border-box;
+}
+
+html {
+  box-sizing: border-box;
+}
+
+*, *:before, *:after {
+  box-sizing: inherit;
 }
 
 body{
@@ -12,12 +19,11 @@ body{
 }
 
 nav{
-  width: 100vw;
+  width: 100%;
   background-color: #7f6650;
   border-radius: 10px;
-  margin: 10px;
-  display: flex;
-
+  position: fixed;
+  top: 0;
 }
 
 ul {
