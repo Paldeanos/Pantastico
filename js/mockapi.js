@@ -3,7 +3,7 @@ let contenedor = document.querySelector("main")
 
 function update() {
   contenedor.innerText="";
-fetch("https://63d158563f08e4a8ff95f787.mockapi.io/menu")
+fetch("js/menu.json")
   .then(response => response.json())
   .then(data => {
       

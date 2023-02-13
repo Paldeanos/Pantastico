@@ -1,0 +1,1096 @@
+[
+  {
+    "picture": "https://www.serebii.net/scarletviolet/meals/1.png",
+    "name": "Bocadillo Sazonado",
+    "ingredients": [
+      "Baguette",
+      "Salsa picante",
+      "Mozarella",
+      "Pimiento verde"
+    ],
+    "price": "7.50",
+    "allergens": [
+      "Gluten",
+      "Lacteo",
+      "Vegano"
+    ],
+    "id": "1"
+  },
+  {
+    "picture": "https://www.serebii.net/scarletviolet/meals/2.png",
+    "name": "Bocadillo de Confitura",
+    "ingredients": [
+        "Baguette",
+        "Mermelada de fresa",
+        "Fresas"
+      ],
+    "price": "7.00",
+    "allergens": [
+      "Gluten"
+    ],
+    "id": "2"
+  },
+  {
+    "picture": "https://www.serebii.net/scarletviolet/meals/3.png",
+    "name": "Bocadillo Tropical",
+    "ingredients": [
+        "Baguette",
+        "Mermelada de albaricoque",
+        "Rodajas de lima",
+        "Palitos de pescado"
+      ],
+    "price": "7.25",
+    "allergens": [
+      "Gluten",
+      "Lacteo",
+      "Vegano"
+    ],
+    "id": "3"
+  },
+  {
+    "picture": "https://www.serebii.net/scarletviolet/meals/4.png",
+    "name": "Bocadillo de Mermelada",
+    "ingredients": [
+        "Baguette",
+        "Mermelada de arándanos",
+        "Queso cheddar"
+      ],
+    "price": "7.00",
+    "allergens": [
+      "Gluten",
+      "Lacteo",
+      "Vegano"
+    ],
+    "id": "4"
+  },
+  {
+    "picture": "https://www.serebii.net/scarletviolet/meals/5.png",
+    "name": "Bocadillo de Aguacate",
+    "ingredients": [
+        "Baguette",
+        "Aguacate en rodajas",
+        "Jamón cocido",
+        "Mayonesa"
+      ],
+    "price": "9.50",
+    "allergens": [
+      "Gluten",
+      "Vegano"
+    ],
+    "id": "5"
+  },
+  {
+    "picture": "https://www.serebii.net/scarletviolet/meals/46.png",
+    "name": "Bocadillo Osado",
+    "ingredients": [
+        "Baguette",
+        "Salsa picante",
+        "Salchichas",
+        "Pimiento verde",
+        "Cebolla"
+      ],
+    "price": "8.00",
+    "allergens": [
+      "Gluten",
+      "Vegano"
+    ],
+    "id": "6"
+  },
+  {
+    "picture": "https://www.serebii.net/scarletviolet/meals/47.png",
+    "name": "Bocadillo de Crema de Cacahuete",
+    "ingredients": [
+        "Baguette",
+        "Crema de cacahuete"
+      ],
+    "price": "7.00",
+    "allergens": [
+      "Gluten"
+    ],
+    "id": "7"
+  },
+  {
+    "picture": "https://www.serebii.net/scarletviolet/meals/48.png",
+    "name": "Bocadillo de Ensaladilla",
+    "ingredients": [
+        "Baguette",
+        "Ensaladilla rusa (patatas, mayonesa y atún)",
+        "Pepinillos en rodajas",
+        "Pimiento rojo"
+      ],
+    "price": "10.00",
+    "allergens": [
+      "Gluten",
+      "Vegano"
+    ],
+    "id": "8"
+  },
+  {
+    "picture": "https://www.serebii.net/scarletviolet/meals/49.png",
+    "name": "Bocadillo de Pepinillos",
+    "ingredients": [
+        "Baguette",
+        "Pepinillos en rodajas",
+        "Mayonesa"
+      ],
+    "price": "7.50",
+    "allergens": [
+      "Gluten",
+      "Vegano"
+    ],
+    "id": "9"
+  },
+  {
+    "picture": "https://www.serebii.net/scarletviolet/meals/50.png",
+    "name": "Bocadillo de Huevo Cocido",
+    "ingredients": [
+        "Baguette",
+        "Huevo cocido",
+        "Pepinillos en rodajas",
+        "Mayonesa"
+      ],
+    "price": "8.00",
+    "allergens": [
+      "Gluten",
+      "Vegano"
+    ],
+    "id": "10"
+  },
+  {
+    "picture": "https://www.serebii.net/scarletviolet/meals/6.png",
+    "name": "Paella Paldeana",
+    "ingredients": [
+        "Arroz con azafrán",
+        "Caldo de pescado",
+        "Mejillones",
+        "Tomates cherry",
+        "Aceitunas",
+        "Limón"
+      ],
+    "price": "12.00",
+    "allergens": [
+      "Vegano"
+    ],
+    "id": "11"
+  },
+  {
+    "picture": "https://www.serebii.net/scarletviolet/meals/8.png",
+    "name": "Escalivada",
+    "ingredients": [
+        "Pimientos rojos",
+        "Espárragos",
+        "Calabaza",
+        "Aceite de oliva"
+      ],
+    "price": "6.00",
+    "allergens": [],
+    "id": "12"
+  },
+  {
+    "picture": "https://www.serebii.net/scarletviolet/meals/9.png",
+    "name": "Tortilla de Patatas",
+    "ingredients": [
+        "Patatas",
+        "Huevos",
+        "Cebolla"
+      ],
+    "price": "7.00",
+    "allergens": [
+      "Vegano"
+    ],
+    "id": "13"
+  },
+  {
+    "picture": "https://www.serebii.net/scarletviolet/meals/10.png",
+    "name": "Pinza de Klawf al Ajillo",
+    "ingredients": [
+        "Pinza de Klawf",
+        "Limón",
+        "Ajo",
+        "Apio",
+        "Cebolla",
+        "Aceite de oliva"
+      ],
+    "price": "11.50",
+    "allergens": [
+      "Vegano"
+    ],
+    "id": "14"
+  },
+  {
+    "picture": "https://www.serebii.net/scarletviolet/meals/41.png",
+    "name": "Patatas Bravas",
+    "ingredients": [
+        "Patatas",
+        "Salsa brava"
+      ],
+    "price": "5.00",
+    "allergens": [],
+    "id": "15"
+  },
+  {
+    "picture": "https://www.serebii.net/scarletviolet/meals/45.png",
+    "name": "Quesadilla",
+    "ingredients": [
+        "Torta de trigo",
+        "Queso cheddar fundido",
+        "Jamón cocido"
+      ],
+    "price": "7.00",
+    "allergens": [
+      "Vegano",
+      "Gluten",
+      "Lacteo"
+    ],
+    "id": "16"
+  },
+  {
+    "picture": "https://www.serebii.net/scarletviolet/meals/39.png",
+    "name": "Ensalada de la Casa",
+    "ingredients": [
+        "Lechuga",
+        "Tomates cherry",
+        "Queso cheddar en dados",
+        "Estrellitas de zanahoria",
+        "Pimiento rojo",
+        "Huevo escalfado",
+        "Salsa de queso"
+      ],
+    "price": "6.50",
+    "allergens": [
+      "Vegano",
+      "Lacteo"
+    ],
+    "id": "17"
+  },
+  {
+    "picture": "https://www.serebii.net/scarletviolet/meals/40.png",
+    "name": "Hamburguesa con Frituras",
+    "ingredients": [
+        "Hambuguesa de ternera",
+        "Aritos de cebolla",
+        "Palitos de mozarella",
+        "Coles de bruselas",
+        "Salsa especial"
+      ],
+    "price": "12.00",
+    "allergens": [
+      "Vegano"
+    ],
+    "id": "18"
+  },
+  {
+    "picture": "https://www.serebii.net/scarletviolet/meals/36.png",
+    "name": "Arroz con Curri",
+    "ingredients": [
+        "Arroz",
+        "Curry",
+        "Verduras salteadas",
+        "Huevo duro"
+      ],
+    "price": "9.50",
+    "allergens": [
+      "Vegano"
+    ],
+    "id": "19"
+  },
+  {
+    "picture": "https://www.serebii.net/scarletviolet/meals/56.png",
+    "name": "Fideos Picantes",
+    "ingredients": [
+        "Noodles de arroz",
+        "Salsa picante",
+        "Daditos de verdura"
+      ],
+    "price": "9.00",
+    "allergens": [],
+    "id": "20"
+  },
+  {
+    "picture": "https://www.serebii.net/scarletviolet/meals/58.png",
+    "name": "Sopa Agripicante",
+    "ingredients": [
+        "Caldo de verduras",
+        "Salsa de soja",
+        "Guindilla",
+        "Cilantro"
+      ],
+    "price": "5.00",
+    "allergens": [],
+    "id": "21"
+  },
+  {
+    "picture": "https://www.serebii.net/scarletviolet/meals/60.png",
+    "name": "Sopa de la Casa",
+    "ingredients": [
+        "Caldo de verduras",
+        "Setas shiitake",
+        "Shimeji",
+        "Salsa de soja"
+      ],
+    "price": "7.50",
+    "allergens": [],
+    "id": "22"
+  },
+  {
+    "picture": "https://www.serebii.net/scarletviolet/meals/51.png",
+    "name": "Onigiri con Mostaza",
+    "ingredients": [
+        "Arroz",
+        "Alga nori",
+        "Mostaza"
+      ],
+    "price": "6.00",
+    "allergens": [],
+    "id": "23"
+  },
+  {
+    "picture": "https://www.serebii.net/scarletviolet/meals/53.png",
+    "name": "Ciruelas Encurtidas de la Casa",
+    "ingredients": [
+        "Ciruelas encurtidas en su propio jugo"
+      ],
+    "price": "5.00",
+    "allergens": [],
+    "id": "24"
+  },
+  {
+    "picture": "https://www.serebii.net/scarletviolet/meals/54.png",
+    "name": "Salteado de Melón Amargo",
+    "ingredients": [
+        "Huevo",
+        "Melón amargo",
+        "Tofu firme",
+        "Pimiento"
+      ],
+    "price": "5.00",
+    "allergens": [
+      "Vegano"
+    ],
+    "id": "25"
+  },
+  {
+    "picture": "https://www.serebii.net/scarletviolet/meals/55.png",
+    "name": "Sopa de Fideos Soba",
+    "ingredients": [
+        "Fideos soba",
+        "Caldo de verduras",
+        "Cebolleta"
+      ],
+    "price": "8.50",
+    "allergens": [],
+    "id": "26"
+  },
+  {
+    "picture": "https://www.serebii.net/scarletviolet/meals/16.png",
+    "name": "Set de Sushi Flor",
+    "ingredients": [
+        "Arroz",
+        "Salmón",
+        "Chorizo",
+        "Rábano",
+        "Zanahoria",
+        "Alga nori"
+      ],
+    "price": "6.20",
+    "allergens": [
+      "Vegano"
+    ],
+    "id": "27"
+  },
+  {
+    "picture": "https://www.serebii.net/scarletviolet/meals/17.png",
+    "name": "Set de Sushi Cuco",
+    "ingredients": [
+        "Arroz",
+        "Panko",
+        "Takoyaki",
+        "Minipizza (Masa de trigo, tomate y queso mozarella)",
+        "Alga nori"
+      ],
+    "price": "6.50",
+    "allergens": [
+      "Vegano",
+      "Lacteo"
+    ],
+    "id": "28"
+  },
+  {
+    "picture": "https://www.serebii.net/scarletviolet/meals/18.png",
+    "name": "Set de Sushi Mar",
+    "ingredients": [
+        "Arroz",
+        "Palito de cangrejo",
+        "Salmón",
+        "Tortilla",
+        "Huevo escalfado",
+        "Tomate cherry",
+        "Alga nori"
+      ],
+    "price": "7.00",
+    "allergens": [
+      "Vegano"
+    ],
+    "id": "29"
+  },
+  {
+    "picture": "https://www.serebii.net/scarletviolet/meals/19.png",
+    "name": "Set de Sushi Prado",
+    "ingredients": [
+        "Arroz",
+        "Aguacate en rodajas",
+        "Apio",
+        "Rúcula",
+        "Zanahoria",
+        "Pimiento rojo",
+        "Tomate cherry",
+        "Pepino",
+        "Alga nori"
+      ],
+    "price": "6.00",
+    "allergens": [],
+    "id": "30"
+  },
+  {
+    "picture": "https://www.serebii.net/scarletviolet/meals/21.png",
+    "name": "Set de Sushi Especial Escarcha",
+    "ingredients": [
+        "Arroz",
+        "Guindilla",
+        "Pesto de albahaca"
+      ],
+    "price": "6.50",
+    "allergens": [],
+    "id": "31"
+  },
+  {
+    "picture": "https://www.serebii.net/scarletviolet/meals/22.png",
+    "name": "Set de Sushi Especial Nieve",
+    "ingredients": [
+        "Arroz",
+        "Queso brie",
+        "Tofu firme",
+        "Merluza",
+        "Espárragos",
+        "Alga nori"
+      ],
+    "price": "6.50",
+    "allergens": [
+      "Vegano",
+      "Lacteo"
+    ],
+    "id": "32"
+  },
+  {
+    "picture": "https://www.serebii.net/scarletviolet/meals/23.png",
+    "name": "Set de Sushi Especial Hielo",
+    "ingredients": [
+        "Arroz",
+        "Limón",
+        "Lima"
+      ],
+    "price": "6.50",
+    "allergens": [],
+    "id": "33"
+  },
+  {
+    "picture": "https://www.serebii.net/scarletviolet/meals/24.png",
+    "name": "Set de Sushi Especial Granizo",
+    "ingredients": [
+        "Arroz",
+        "Patatas ",
+        "Salsa brava",
+        "Mayonesa",
+        "Cebolla",
+        "Puerro",
+        "Alga nori"
+      ],
+    "price": "6.50",
+    "allergens": [
+      "Vegano"
+    ],
+    "id": "34"
+  },
+  {
+    "picture": "https://www.serebii.net/scarletviolet/meals/20.png",
+    "name": "Sopa de Miso",
+    "ingredients": [
+        "Caldo de miso blanco",
+        "Patatas",
+        "Zanahoria",
+        "Tofu en dados",
+        "Cebollino"
+      ],
+    "price": "5.50",
+    "allergens": [],
+    "id": "35"
+  },
+  {
+    "picture": "https://www.serebii.net/scarletviolet/meals/25.png",
+    "name": "Sopa Ligera",
+    "ingredients": [
+        "Caldo de verduras",
+        "Alga wakame",
+        "Tofu en daditos",
+        "Rábano",
+        "Cebolla"
+      ],
+    "price": "5.00",
+    "allergens": [],
+    "id": "36"
+  },
+  {
+    "picture": "https://www.serebii.net/scarletviolet/meals/30.png",
+    "name": "Ramen",
+    "ingredients": [
+        "Fideos de trigo",
+        "Caldo de pollo",
+        "Dashi",
+        "Cerdo asado",
+        "Naruto",
+        "Brotes de bambú",
+        "Huevo pasado por agua"
+      ],
+    "price": "10.00",
+    "allergens": [
+      "Vegano",
+      "Gluten"
+    ],
+    "id": "37"
+  },
+  {
+    "picture": "https://www.serebii.net/scarletviolet/meals/65.png",
+    "name": "Onigiris a la Parrilla",
+    "ingredients": [
+        "Arroz frito marinado",
+        "Salsa de soja",
+        "Limón"
+      ],
+    "price": "6.60",
+    "allergens": [],
+    "id": "38"
+  },
+  {
+    "picture": "https://www.serebii.net/scarletviolet/meals/26.png",
+    "name": "Tofu Picante",
+    "ingredients": [
+      "Tofu en dados",
+      "Salsa picante",
+      "Cebollino"
+    ],
+    "price": "8.00",
+    "allergens": [],
+    "id": "39"
+  },
+  {
+    "picture": "https://www.serebii.net/scarletviolet/meals/27.png",
+    "name": "Tofu de Almendras",
+    "ingredients": [
+      "Tofu en dados",
+      "Almendras"
+    ],
+    "price": "6.50",
+    "allergens": [],
+    "id": "40"
+  },
+  {
+    "picture": "https://www.serebii.net/scarletviolet/meals/28.png",
+    "name": "Ensalada de Pepino y Toedscool",
+    "ingredients": [
+      "Toedscool",
+      "Pepino",
+      "Pimiento amarillo"
+    ],
+    "price": "7.00",
+    "allergens": [
+      "Vegano"
+    ],
+    "id": "41"
+  },
+  {
+    "picture": "https://www.serebii.net/scarletviolet/meals/29.png",
+    "name": "Carne con Pimientos",
+    "ingredients": [
+      "Pollo",
+      "Pimiento amarillo",
+      "Pimiento verde"
+    ],
+    "price": "8.50",
+    "allergens": [
+      "Vegano"
+    ],
+    "id": "42"
+  },
+  {
+    "picture": "https://www.serebii.net/scarletviolet/meals/64.png",
+    "name": "Brochetas",
+    "ingredients": [
+      "Carne de Miltank a la brasa",
+      "Pimiento verde"
+    ],
+    "price": "5.00",
+    "allergens": [
+      "Vegano"
+    ],
+    "id": "43"
+  },
+  {
+    "picture": "https://www.serebii.net/scarletviolet/meals/11.png",
+    "name": "Pinchos del Mar",
+    "ingredients": [
+      "Pescado azul",
+      "Gambas",
+      "Aguacate",
+      "Salmón",
+      "Pan"
+    ],
+    "price": "5.50",
+    "allergens": [
+      "Vegano"
+    ],
+    "id": "44"
+  },
+  {
+    "picture": "https://www.serebii.net/scarletviolet/meals/13.png",
+    "name": "Ceviche",
+    "ingredients": [
+      "Pescado blanco",
+      "Tomate cherry",
+      "Pepino",
+      "Pimiento amarillo",
+      "Salmón"
+    ],
+    "price": "7.00",
+    "allergens": [
+      "Vegano"
+    ],
+    "id": "45"
+  },
+  {
+    "picture": "https://www.serebii.net/scarletviolet/meals/14.png",
+    "name": "Filetes Ahumados a las Finas Hierbas",
+    "ingredients": [
+      "Filetes de salmón",
+      "Romero",
+      "Aceite de oliva"
+    ],
+    "price": "6.50",
+    "allergens": [
+      "Vegano"
+    ],
+    "id": "46"
+  },
+  {
+    "picture": "https://www.serebii.net/scarletviolet/meals/15.png",
+    "name": "Pasta a la Marinera",
+    "ingredients": [
+      "Espaguetis",
+      "Gambas",
+      "Calamares",
+      "Almejas"
+    ],
+    "price": "7.00",
+    "allergens": [
+      "Vegano",
+      "Gluten"
+    ],
+    "id": "47"
+  },
+  {
+    "picture": "https://www.serebii.net/scarletviolet/meals/31.png",
+    "name": "Galette De La Maman",
+    "ingredients": [
+      "Masa de trigo sarraceno",
+      "Huevo",
+      "Queso emmental",
+      "Tomate cherry",
+      "Salsa rosa"
+    ],
+    "price": "20.00",
+    "allergens": [
+      "Gluten",
+      "Vegano"
+    ],
+    "id": "48"
+  },
+  {
+    "picture": "https://www.serebii.net/scarletviolet/meals/32.png",
+    "name": "Compote Du Fils",
+    "ingredients": [
+      "Melocotón",
+      "Leche condensada",
+      "Mermelada de frambuesa"
+    ],
+    "price": "36.00",
+    "allergens": [
+      "Lacteo",
+      "Vegano"
+    ],
+    "id": "49"
+  },
+  {
+    "picture": "https://www.serebii.net/scarletviolet/meals/33.png",
+    "name": "Ratatouille Du Grand-Père",
+    "ingredients": [
+      "Tomate",
+      "Calabacín",
+      "Berenjena"
+    ],
+    "price": "25.00",
+    "allergens": [],
+    "id": "50"
+  },
+  {
+    "picture": "https://www.serebii.net/scarletviolet/meals/34.png",
+    "name": "Quiche De La Grand-Mère",
+    "ingredients": [
+      "Masa de trigo",
+      "Huevo",
+      "Bacon",
+      "Espinacas",
+      "Aceitunas"
+    ],
+    "price": "30.50",
+    "allergens": [
+      "Vegano",
+      "Gluten"
+    ],
+    "id": "51"
+  },
+  {
+    "picture": "https://www.serebii.net/scarletviolet/meals/35.png",
+    "name": "Pot-Au-Feu De La Fille",
+    "ingredients": [
+      "Tocino de Lechonk",
+      "Puré de patatas",
+      "Zanahoria",
+      "Caldo de verduras"
+    ],
+    "price": "54.00",
+    "allergens": [
+      "Vegano"
+    ],
+    "id": "52"
+  },
+  {
+    "picture": "https://www.serebii.net/scarletviolet/meals/61.png",
+    "name": "Churro",
+    "ingredients": [
+      "Harina de trigo",
+      "Aceite",
+      "Sal"
+    ],
+    "price": "3.50",
+    "allergens": [
+      "Gluten"
+    ],
+    "id": "53"
+  },
+  {
+    "picture": "https://www.serebii.net/scarletviolet/meals/62.png",
+    "name": "Churro con Chocolate",
+    "ingredients": [
+      "Harina de trigo",
+      "Aceite",
+      "Sal",
+      "Chocolate"
+    ],
+    "price": "4.00",
+    "allergens": [
+      "Gluten",
+      "Lacteo",
+      "Vegano"
+    ],
+    "id": "54"
+  },
+  {
+    "picture": "https://www.serebii.net/scarletviolet/meals/63.png",
+    "name": "Churro con Canela",
+    "ingredients": [
+      "Harina de trigo",
+      "Aceite",
+      "Sal",
+      "Canela"
+    ],
+    "price": "3.50",
+    "allergens": [
+      "Gluten"
+    ],
+    "id": "55"
+  },
+  {
+    "picture": "https://www.serebii.net/scarletviolet/meals/66.png",
+    "name": "Crepe con Fresas y Nata Chocolateada",
+    "ingredients": [
+      "Harina de trigo",
+      "Fresas",
+      "Nata con chocolate"
+    ],
+    "price": "6.00",
+    "allergens": [
+      "Gluten",
+      "Lacteo",
+      "Vegano"
+    ],
+    "id": "56"
+  },
+  {
+    "picture": "https://www.serebii.net/scarletviolet/meals/67.png",
+    "name": "Crepe con Fresas y Nata",
+    "ingredients": [
+      "Harina de trigo",
+      "Fresas",
+      "Nata"
+    ],
+    "price": "6.00",
+    "allergens": [
+      "Gluten",
+      "Lacteo",
+      "Vegano"
+    ],
+    "id": "57"
+  },
+  {
+    "picture": "https://www.serebii.net/scarletviolet/meals/68.png",
+    "name": "Crepe con Plátano y Chocolate",
+    "ingredients": [
+      "Harina de trigo",
+      "Plátano",
+      "Chocolate"
+    ],
+    "price": "6.50",
+    "allergens": [
+      "Gluten",
+      "Lacteo",
+      "Vegano"
+    ],
+    "id": "58"
+  },
+  {
+    "picture": "https://www.serebii.net/scarletviolet/meals/69.png",
+    "name": "Helado de Menta con Chocolate",
+    "ingredients": [
+      "Leche",
+      "Menta",
+      "Chocolate"
+    ],
+    "price": "4.00",
+    "allergens": [
+      "Lacteo",
+      "Vegano"
+    ],
+    "id": "59"
+  },
+  {
+    "picture": "https://www.serebii.net/scarletviolet/meals/70.png",
+    "name": "Helado de Nube",
+    "ingredients": [
+      "Leche",
+      "Nube de gelatina"
+    ],
+    "price": "4.00",
+    "allergens": [
+      "Lacteo",
+      "Vegano"
+    ],
+    "id": "60"
+  },
+  {
+    "picture": "https://www.serebii.net/scarletviolet/meals/71.png",
+    "name": "Helado de Fresa",
+    "ingredients": [
+      "Leche",
+      "Fresa"
+    ],
+    "price": "4.00",
+    "allergens": [
+      "Lacteo",
+      "Vegano"
+    ],
+    "id": "61"
+  },
+  {
+    "picture": "https://www.serebii.net/scarletviolet/meals/72.png",
+    "name": "Helado de Mango",
+    "ingredients": [
+      "Leche",
+      "Mango"
+    ],
+    "price": "4.00",
+    "allergens": [
+      "Lacteo",
+      "Vegano"
+    ],
+    "id": "62"
+  },
+  {
+    "picture": "https://www.serebii.net/scarletviolet/meals/73.png",
+    "name": "Helado Salado de Nacli",
+    "ingredients": [
+      "Leche",
+      "Sal de Nacli",
+      "Chocolate"
+    ],
+    "price": "5.00",
+    "allergens": [
+      "Lacteo",
+      "Vegano"
+    ],
+    "id": "63"
+  },
+  {
+    "picture": "https://www.serebii.net/scarletviolet/meals/74.png",
+    "name": "Helado al Teriyaki",
+    "ingredients": [
+      "Leche",
+      "Vainilla",
+      "Salsa teriyaki"
+    ],
+    "price": "5.50",
+    "allergens": [
+      "Lacteo",
+      "Vegano"
+    ],
+    "id": "64"
+  },
+  {
+    "picture": "https://www.serebii.net/scarletviolet/meals/37.png",
+    "name": "Copa de Helado con Fruta",
+    "ingredients": [
+      "Leche",
+      "Nata",
+      "Chocolate",
+      "Melón",
+      "Manzana",
+      "Mandarina",
+      "Luvdisc de galleta"
+    ],
+    "price": "6.00",
+    "allergens": [
+      "Lacteo",
+      "Vegano"
+    ],
+    "id": "65"
+  },
+  {
+    "picture": "https://www.serebii.net/scarletviolet/meals/38.png",
+    "name": "Sorbete de Limón",
+    "ingredients": [
+      "Hielo",
+      "Limón",
+      "Chocolate",
+      "Barquillo de galleta"
+    ],
+    "price": "6.50",
+    "allergens": [
+      "Lacteo",
+      "Vegano"
+    ],
+    "id": "66"
+  },
+  {
+    "picture": "https://www.serebii.net/scarletviolet/meals/57.png",
+    "name": "Pudin de Tofu",
+    "ingredients": [
+      "Tofu",
+      "Melocotón",
+      "Judías pintas",
+      "Frijoles negros",
+      "Habichuelas"
+    ],
+    "price": "7.00",
+    "allergens": [],
+    "id": "67"
+  },
+  {
+    "picture": "https://www.serebii.net/scarletviolet/meals/12.png",
+    "name": "Arroz con Leche",
+    "ingredients": [
+      "Arroz",
+      "Leche",
+      "Canela"
+    ],
+    "price": "5.00",
+    "allergens": [
+      "Lacteo",
+      "Vegano"
+    ],
+    "id": "68"
+  },
+  {
+    "picture": "https://www.serebii.net/scarletviolet/meals/52.png",
+    "name": "Sopa de Judías con Mochi",
+    "ingredients": [
+      "Judías rojas azuki",
+      "Malvadisco",
+      "Mochi"
+    ],
+    "price": "6.50",
+    "allergens": [
+      "Vegano"
+    ],
+    "id": "69"
+  },
+  {
+    "picture": "https://www.serebii.net/scarletviolet/meals/42.png",
+    "name": "Alfajores",
+    "ingredients": [
+      "Mantequilla",
+      "Azúcar",
+      "Chocolate",
+      "Vainilla"
+    ],
+    "price": "5.00",
+    "allergens": [
+      "Lacteo",
+      "Vegano"
+    ],
+    "id": "70"
+  },
+  {
+    "picture": "https://www.serebii.net/scarletviolet/meals/7.png",
+    "name": "Zumo con Trocitos de Fruta",
+    "ingredients": [
+      "Zumo de frutos rojos",
+      "Arándanos",
+      "Limón",
+      "Melocotón"
+    ],
+    "price": "4.00",
+    "allergens": [],
+    "id": "71"
+  },
+  {
+    "picture": "https://www.serebii.net/scarletviolet/meals/43.png",
+    "name": "Limonada",
+    "ingredients": [
+      "Limón exprimido",
+      "Hielo"
+    ],
+    "price": "3.00",
+    "allergens": [],
+    "id": "72"
+  },
+  {
+    "picture": "https://www.serebii.net/scarletviolet/meals/59.png",
+    "name": "Té Oolong",
+    "ingredients": [
+      "Té azul Oolong",
+      "Agua"
+    ],
+    "price": "3.00",
+    "allergens": [],
+    "id": "73"
+  },
+  {
+    "picture": "https://www.serebii.net/scarletviolet/meals/44.png",
+    "name": "Café",
+    "ingredients": [
+      "Café molido",
+      "Agua"
+    ],
+    "price": "1.50",
+    "allergens": [],
+    "id": "74"
+  }
+]

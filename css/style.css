@@ -20,10 +20,13 @@ body{
 
 nav{
   width: 100%;
+  max-height: 150px;
   background-color: #7f6650;
   border-radius: 10px;
   position: fixed;
   top: 0;
+  left: 0;
+  right: 0;
 }
 
 ul {
@@ -32,6 +35,10 @@ ul {
   display: flex;
   flex-direction: row;
   align-items: center;
+}
+
+li:first-child {
+  display: flex;
 }
 
 li:not(:first-child){
@@ -79,6 +86,7 @@ main {
   justify-content: space-around;
   margin: 5vw;
   border-radius: 10px;
+  margin-top: 150px;
 }
 
 section {
@@ -124,14 +132,18 @@ i:hover{
   color: red;
 }
 
-
-
 article p{
   font-family: 'Istok Web', sans-serif;
 }
 
 @media only screen and (max-width: 735px) {
-  nav {
-    background-color: lightblue;
+
+  ul {
+    flex-direction: column;
+    align-items: center;
+  }
+
+  li:not(:first-child){
+    margin-bottom: 5px;
   }
 }
