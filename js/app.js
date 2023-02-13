@@ -1,17 +1,3 @@
-
-    // $("#filters :checkbox").click(function() {
-    //     if (!$('.filterOption').is(":checked")) {
-    //         $(".alergias").show();
-    //     } else {
-    //         $(".alergias").hide();
-    //         var selector = ".alergias." + $("#filters :checked").map(function () {
-    //             return this.value;
-    //         }).toArray().join(".");
-    //         $(selector).show();
-    //     }
-    // });
-
-
 $("#filters :checkbox").click(function() {
     let checkedValues = $("#filters :checked").map(function () {
         return "." + this.value;

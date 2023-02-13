@@ -43,7 +43,7 @@ fetch("https://63d158563f08e4a8ff95f787.mockapi.io/menu")
     
   })
   .catch( err => {
-      alert("hubo error")
+      alert("Hubo error. Recargue la página.")
   });
 }
 
