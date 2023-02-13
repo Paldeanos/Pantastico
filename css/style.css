@@ -25,7 +25,7 @@ nav{
   background-color: #7f6650;
   border-radius: 10px;
   position: fixed;
-  top: 0;
+  top: 10px;
   left: 0;
   right: 0;
   display: flex;
