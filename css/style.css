@@ -25,7 +25,7 @@ nav{
   background-color: #7f6650;
   border-radius: 10px;
   position: fixed;
-  top: 0;
+  top: 10px;
   left: 0;
   right: 0;
   display: flex;
@@ -121,12 +121,14 @@ article h4{
   display: inline;
 }
 
-i{
+.addFav{
   margin-left: 10px;
   color: black;
+  background-color: transparent;
+  border-color: transparent;
 }
 
-i:hover{
+.addFav:hover{
   cursor: pointer;
   color: red;
 }
