@@ -1,9 +1,10 @@
 @import url('https://fonts.googleapis.com/css2?family=Istok+Web&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Kreon&display=swap');
 
-*{
+* {
     padding: 0;
     margin: 0;
+    box-sizing: border-box;
 }
 
 body{
@@ -11,8 +12,7 @@ body{
 }
 
 nav{
-  /* width: 100vw;
-  max-height: 100px; */
+  width: 100vw;
   background-color: #7f6650;
   border-radius: 10px;
   margin: 10px;
@@ -21,23 +21,21 @@ nav{
 ul {
     list-style-type: none;
     overflow: hidden;
+    display: flex;
+    flex-direction: row;
   }
   
 .logo {
-  float: left;
-  width: 15vw;
-  height: 15vw;
-  padding: 1vw; 
-  margin: 2vw 0vw 2vw 2vw;
+  max-width: 100px;
+  max-height: 100px;
 }
 
 .btnalergias{
-  float:right;
   background: #dcceb3;
   border: none;
   border-radius: 5px;
-  padding: 3vw; 
-  margin: 5vw 5vw 0vw 0vw;
+  padding: 10px; 
+  margin: 5px;
   font-size:medium;
   font-family: 'Kreon', serif;
   }
@@ -48,9 +46,10 @@ ul {
   cursor: pointer;
 }
 
-main{
+main {
   display: flex;
   flex-direction: column;
+  justify-content: space-between;
   margin: 5vw;
   border-radius: 10px;
 }
@@ -68,6 +67,9 @@ section {
 aside img {
   max-width: 150px;
   max-height: 150px;
+  width: auto;
+  display: block;
+  margin: 0 auto;
 }
 
 .der > h1{
