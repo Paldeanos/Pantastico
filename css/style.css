@@ -16,14 +16,35 @@ nav{
   background-color: #7f6650;
   border-radius: 10px;
   margin: 10px;
+  display: flex;
+
 }
 
 ul {
-    list-style-type: none;
-    overflow: hidden;
-    display: flex;
-    flex-direction: row;
-  }
+  list-style-type: none;
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+
+li:not(:first-child){
+  height: 50px;
+  width: 150px;
+  background-color: #dcceb3;
+  border-radius: 10px;
+  margin-right: 5px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+input[type="checkbox"] {
+  height: 25px;
+  width: 25px;
+  margin-right: 5px;
+  accent-color: #7f6650;   
+}
   
 .logo {
   max-width: 100px;
@@ -49,7 +70,7 @@ ul {
 main {
   display: flex;
   flex-direction: column;
-  justify-content: space-between;
+  justify-content: space-around;
   margin: 5vw;
   border-radius: 10px;
 }
@@ -72,12 +93,15 @@ aside img {
   margin: 0 auto;
 }
 
-.der > h1{
-  padding: 1vw; 
+article {
+  overflow-wrap: break-word;
+}
+
+article h4{
+  font-size: 1.2rem;
   font-family: 'Kreon', serif;
 }
 
-.der > p{
-  padding: 1vw; 
+article p{
   font-family: 'Istok Web', sans-serif;
 }
