@@ -13,7 +13,7 @@ body{
 nav{
   /* width: 100vw;
   max-height: 100px; */
-  /* background-color: #7f6650; */
+  background-color: #7f6650;
   border-radius: 10px;
   margin: 10px;
 }
@@ -33,7 +33,7 @@ ul {
 
 .btnalergias{
   float:right;
-  background: #a99b7f;
+  background: #dcceb3;
   border: none;
   border-radius: 5px;
   padding: 3vw; 
