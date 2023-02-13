@@ -36,6 +36,7 @@ fetch("js/menu.json")
         }
 
         nuevoplato.querySelector("p").innerText = ingredients(el.ingredients);
+        nuevoplato.querySelector(".precio").innerText = el.price + " €";
         wrap.appendChild(nuevoplato);        
         
         contenedor.appendChild(wrap);  
