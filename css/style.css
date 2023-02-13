@@ -116,3 +116,9 @@ article h4{
 article p{
   font-family: 'Istok Web', sans-serif;
 }
+
+@media only screen and (max-width: 735px) {
+  nav {
+    background-color: lightblue;
+  }
+}
